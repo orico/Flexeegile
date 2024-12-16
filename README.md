@@ -12,7 +12,7 @@ As one of the founders of the Agile Manifesto, puts it:
 
 Flexeegile recognizes that today’s computing landscape extends far beyond desktop applications, encompassing cloud computing, big data, machine and deep learning, and more. It aims to be wide and interpretable, yet intentionally vague to remain future-proof as technology advances.
 
-The name "Flexeegile" signifies the ability to interpret agile methodologies in a flexible manner, especially in the context of AI.
+The name "Flexeegile" signifies the ability to interpret Agile methodologies in a flexible manner, especially in the context of AI.
 
 Flexeegile is open to contributions on GitHub. Show your support by starring the repository!
 
