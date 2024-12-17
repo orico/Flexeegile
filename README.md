@@ -1,3 +1,5 @@
+![https://www.flexeegile.com](flexeegile_banner.png)
+
 # Flexeegile - Extending Agile For AI & Data Teams
 
 Flexeegile is my proposed extension to the well-established Agile framework, it aims to address the unique challenges posed by AI & Data projects in today’s complex computing environments.
