@@ -17,7 +17,6 @@ The name "Flexeegile" signifies the ability to interpret Agile methodologies in 
 
 Flexeegile is open to contributions on GitHub. Show your support by starring the repository!
 
-Dr. Ori Cohen 
 
 ## Core Values
 
@@ -47,3 +46,5 @@ This approach means creating solutions that can be readily comprehended by both 
 When complexity inevitably arises, the goal is to maintain a core of simplicity that allows for quick root cause analysis, effective troubleshooting, and a genuine understanding of how and why an AI system produces its outputs, thereby preserving human agency and insight in an increasingly automated world.
 
 For more information, visit [Flexeegile](https://www.flexeegile.com/).
+
+Dr. Ori Cohen. 
